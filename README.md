@@ -106,6 +106,8 @@ LOCKON-IP-Prism/
     *   Select a batch to view details or export to PDF.
     *   Use **Recurrence Report** to find repeat offenders.
 
+![scan gif](images/banner_scan.gif)
+
 ---
 
 ##  Troubleshooting
