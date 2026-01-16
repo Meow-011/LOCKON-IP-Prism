@@ -6,39 +6,31 @@
 
 **LOCKON IP Prism** is a sophisticated desktop application designed for **Threat Intelligence** and **SOC Analysts**. It provides bulk IP reputation checking by integrating with **IPQualityScore (IPQS)** and **AlienVault OTX**, wrapped in a modern, user-friendly GUI built with `CustomTkinter`.
 
----
-
-## 📸 Screenshots
-
-*(Place your screenshots here, e.g., Dashboard, Analysis View, and Reports)*
-
-| Dashboard | Analysis View |
-|:---:|:---:|
-| ![Dashboard Screenshot](https://via.placeholder.com/400x300?text=Dashboard+Screenshot) | ![Analysis Screenshot](https://via.placeholder.com/400x300?text=Analysis+Screenshot) |
+![anime gif](images/Misato_Tachibana_banner.gif)
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-*   **⚡ High-Performance Bulk Analysis**: Rapidly process `.txt` or `.log` files containing hundreds of IPs using async concurrency.
-*   **🛡️ Dual Intelligence Sources**: 
+*   **High-Performance Bulk Analysis**: Rapidly process `.txt` or `.log` files containing hundreds of IPs using async concurrency.
+*   **Dual Intelligence Sources**: 
     *   **IPQualityScore**: Fraud scores, bot detection, and high-risk IP identification.
     *   **AlienVault OTX**: Threat pulses and community-reported indicators.
-*   **💾 Smart Caching System**: 
+*   **Smart Caching System**: 
     *   Local SQLite database (`ip_prism.db`) reduces API costs.
     *   Configurable cache duration (default: 24 hours).
-*   **📊 Interactive Dashboard**: 
+*   **Interactive Dashboard**: 
     *   Real-time statistics (Total IPs, Top Malicious Countries, Batch History).
     *   Visual indicators for API status and credit usage.
-*   **📑 Advanced Reporting**:
+*   **Advanced Reporting**:
     *   **Recurrence Reports**: Spot persistent threats across multiple timeframes.
     *   **Comparison Reports**: Diff two datasets to find new or resolved threats.
     *   **PDF Exports**: Generate executive-ready reports with one click.
-*   **🎨 Modern UI**: Professional Dark Mode interface powered by `CustomTkinter`.
+*   **Modern UI**: Professional Dark Mode interface powered by `CustomTkinter`.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 LOCKON-IP-Prism/
@@ -83,7 +75,7 @@ LOCKON-IP-Prism/
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 1.  Create a `.env` file in the root directory.
 2.  Add your API keys (Get them from [IPQualityScore](https://www.ipqualityscore.com/) and [AlienVault OTX](https://otx.alienvault.com/)):
@@ -96,7 +88,7 @@ LOCKON-IP-Prism/
 
 ---
 
-## 🖥️ Usage
+##  Usage
 
 1.  **Launch the App**:
     ```bash
@@ -114,7 +106,7 @@ LOCKON-IP-Prism/
 
 ---
 
-## ❓ Troubleshooting
+##  Troubleshooting
 
 | Issue | Solution |
 | :--- | :--- |
@@ -124,7 +116,7 @@ LOCKON-IP-Prism/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 1.  Fork the Project
@@ -135,15 +127,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 👤 Author
-
-**Meow-011**
-*   GitHub: [Meow-011](https://github.com/Meow-011)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
