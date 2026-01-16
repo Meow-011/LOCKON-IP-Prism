@@ -1,0 +1,7 @@
+customtkinter
+matplotlib
+python-dotenv
+requests
+pyperclip
+reportlab
+aiohttp

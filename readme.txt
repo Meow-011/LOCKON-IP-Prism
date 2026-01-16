@@ -1,0 +1,2 @@
+PS C:\Users\natth\OneDrive\Desktop\MyProject\LOCKON IP Prism 2.3> .\venv\Scripts\activate                                
+(venv) PS C:\Users\natth\OneDrive\Desktop\MyProject\LOCKON IP Prism 2.3> python .\app.py

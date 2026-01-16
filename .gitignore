@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Distribution / Packaging
+dist/
+build/
+*.spec
+
+# Database (Optional: Exclude if you want a fresh DB for every cloners)
+# ip_prism.db
+
+# Logs
+*.log
+crash_log.txt
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
