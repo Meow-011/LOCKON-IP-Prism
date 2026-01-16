@@ -28,7 +28,7 @@
     *   **PDF Exports**: Generate executive-ready reports with one click.
 *   **Modern UI**: Professional Dark Mode interface powered by `CustomTkinter`.
 
-![anime gif](images/img2.png)
+![anime gif](images/img3.png)
 
 ---
 
