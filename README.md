@@ -6,8 +6,7 @@
 
 **LOCKON IP Prism** is a sophisticated desktop application designed for **Threat Intelligence** and **SOC Analysts**. It provides bulk IP reputation checking by integrating with **IPQualityScore (IPQS)** and **AlienVault OTX**, wrapped in a modern, user-friendly GUI built with `CustomTkinter`.
 
-![anime gif](images/img1.png)
-![anime gif](images/img2.png)
+![dash gif](images/img1.png)
 
 ---
 
